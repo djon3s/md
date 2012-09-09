@@ -3,7 +3,7 @@
 
 """collections -- collection data types"""
 
-from __future__ import absolute_import
+#from __future__ import absolute_import
 import re, sys, copy, bisect, keyword, collections as coll, itertools as it
 from md import abc
 from ._prelude import *
